@@ -2,7 +2,7 @@
 
 LaymanAI is an innovative browser extension and backend service designed to transform complex information into simple, engaging, and easy-to-understand explanations. Whether you're a student, a professional, or just someone curious about learning, LaymanAI helps you retain and comprehend difficult concepts effortlessly.
 
-![LaymanAI Logo](client/icon.png)
+
 
 ---
 
@@ -19,7 +19,7 @@ In a world overflowing with information, understanding complex topics can be ove
 - **Daily Usage Limits**: Ensures fair usage with a cap of 5 explanations per day.
 - **User-Friendly Interface**: A sleek and intuitive browser extension for seamless interaction.
 
-![LaymanAI Interface](client/interface.png)
+
 
 ---
 
